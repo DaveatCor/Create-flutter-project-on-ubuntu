@@ -1,7 +1,7 @@
 **To run this repository**
 1. Clone the project `https://github.com/DaveatCor/Create-flutter-project-on-ubuntu.git`.
 2. And run `flutter packages get` on terminal inside your project folder. 
-
+3. Then run `flutter run` done.
 
 #
 
@@ -21,12 +21,12 @@
 
 **Create new project**
 
-1. Create project "flutter create <project name>"
+1. Create project `flutter create <project name>` .
   
-2. Open terminal inside your project and check available emulator of your android sdk "flutter emulator"
+2. Open terminal inside your project and check available emulator of your android sdk `flutter emulator` .
 
-3. And then run launch your emulator "flutter emulator --launch <emulator device name>".
+3. And then run launch your emulator `flutter emulator --launch <emulator device name>` .
   
-4. After emulator launched let run your flutter project on emulator device.
+4. After emulator launched let run `flutter run` your flutter on emulator device.
 
-5. You will see your flutter apps on emulator device.
+5. You will see your flutter apps installed on emulator device.
