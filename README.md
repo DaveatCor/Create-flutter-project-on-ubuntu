@@ -1,6 +1,6 @@
 **To run this repository**
-1. Clone the project <mark>https://github.com/DaveatCor/Create-flutter-project-on-ubuntu.git</mark>.
-2. And run "flutter packages get" on terminal inside your project folder. 
+1. Clone the project `https://github.com/DaveatCor/Create-flutter-project-on-ubuntu.git`.
+2. And run `flutter packages get` on terminal inside your project folder. 
 
 
 #
