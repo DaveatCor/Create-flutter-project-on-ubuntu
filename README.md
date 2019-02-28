@@ -21,7 +21,7 @@
 
 1. Create project `flutter create <project name>` .
   
-2. Open terminal inside your project and check available emulator of your android sdk `flutter emulator` .
+2. Check emulator that available inside your android studio `flutter emulator` .
 
 3. And then run launch your emulator `flutter emulator --launch <emulator device name>` .
   
