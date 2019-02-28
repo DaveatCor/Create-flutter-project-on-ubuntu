@@ -7,7 +7,7 @@
 
 #
 
-## Flutter SDK #
+<h2> Flutter SDK </h2>
 * Download and unzip on your machine <a href="https://flutter.dev/docs/get-started/install" tartget="_blank">Flutter SDK<a> 
 
 
