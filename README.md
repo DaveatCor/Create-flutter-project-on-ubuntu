@@ -1,4 +1,11 @@
-# Create-flutter-project-on-ubuntu
+**To run this repository**
+1. Clone the project <mark>https://github.com/DaveatCor/Create-flutter-project-on-ubuntu.git</mark>.
+2. 
+
+
+#
+
+# Create flutter project on ubuntu
 
 **Android Studio**
 
