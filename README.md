@@ -7,7 +7,7 @@
 
 #
 
-<p style="font-size: 25px;"> Flutter SDK </p>
+<p style="font-size: 50px; font-weight="bold"> Flutter SDK </p>
 * Download and unzip on your machine <a href="https://flutter.dev/docs/get-started/install" tartget="_blank">Flutter SDK<a> 
 
 
