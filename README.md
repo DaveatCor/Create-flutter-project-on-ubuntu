@@ -21,10 +21,10 @@
 
 1. Create project `flutter create <project name>` .
   
-2. Check emulator that available inside your android studio `flutter emulator` .
+2. Check available emulator `flutter emulator` .
 
 3. And then run launch your emulator `flutter emulator --launch <emulator device name>` .
   
 4. After emulator launched let run `flutter run` your flutter on emulator device.
 
-5. You will see your flutter apps installed on emulator device.
+5. You'll see your flutter apps installed on emulator device.
