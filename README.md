@@ -7,7 +7,8 @@
 
 **Android Studio**
 
-* Before run flutter project you need to install android studio inside your machine. \n
+* Before run flutter project you need to install android studio inside your machine.
+<br>
 . Click to download android studio sdk <a href="https://developer.android.com/studio/?gclid=CjwKCAiAqt7jBRAcEiwAof2uK9JiUr1-qNHVB9D5jTMYEMBYNaG3E7q9TK18ojSk3higFebke26yHxoCF-8QAvD_BwE" target="_blank">Android Studio</a>
 
 #
